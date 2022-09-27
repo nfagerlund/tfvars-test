@@ -1,2 +1,2 @@
 animal = "horse"
-vegetable = "broccoli"
+vegetable = "radish"
