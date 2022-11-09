@@ -15,3 +15,7 @@ output "animal-variable" {
 output "vegetable-variable" {
   value = var.vegetable
 }
+
+output "totally-arbitrary" {
+  value = ["one", "two", "three", "oh right, forgot zero"]
+}
